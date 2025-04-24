@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\HK2_2425\\PBL3\\BE\\FindTutor_MVC.csproj": {}
+    "D:\\PBL3_MVC\\FindTutor_MVC.csproj": {}
   },
   "projects": {
-    "G:\\HK2_2425\\PBL3\\BE\\FindTutor_MVC.csproj": {
+    "D:\\PBL3_MVC\\FindTutor_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\HK2_2425\\PBL3\\BE\\FindTutor_MVC.csproj",
+        "projectUniqueName": "D:\\PBL3_MVC\\FindTutor_MVC.csproj",
         "projectName": "FindTutor_MVC",
-        "projectPath": "G:\\HK2_2425\\PBL3\\BE\\FindTutor_MVC.csproj",
-        "packagesPath": "C:\\Users\\Miu Miu\\.nuget\\packages\\",
-        "outputPath": "G:\\HK2_2425\\PBL3\\BE\\obj\\",
+        "projectPath": "D:\\PBL3_MVC\\FindTutor_MVC.csproj",
+        "packagesPath": "C:\\Users\\baoqu\\.nuget\\packages\\",
+        "outputPath": "D:\\PBL3_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Miu Miu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baoqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -96,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
