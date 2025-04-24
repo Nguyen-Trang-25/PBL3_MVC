@@ -1,0 +1,12 @@
+﻿@if (User.IsInRole("Student"))
+{
+    @Html.Partial("HeaderStudent")
+}
+else if (User.IsInRole("Tutor"))
+{
+    @Html.Partial("HeaderTutor")
+}
+else
+{
+    @Html.Partial("Header")
+}

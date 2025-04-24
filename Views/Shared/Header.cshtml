@@ -1,0 +1,22 @@
+@{
+    Layout = "_Layout";  // Ensure you have a layout page set if applicable
+}
+
+<header class="header">
+    <a href="@Url.Content("~/")" class="logo">
+        <i class="fas fa-lightbulb"></i> Tutor Finder
+    </a>
+
+    <nav class="navbar">
+        <div id="close-navbar" class="fas fa-times"></div>
+        <a href="@Url.Content("~/home")">Trang chủ</a>
+        <a href="@Url.Content("~/about")">Giới thiệu</a>
+        <a href="@Url.Content("~/course")">Lớp mới</a>
+        <a href="@Url.Content("~/contact")">Liên hệ</a>
+    </nav>
+
+    <div class="icons">
+        <div id="account-btn" class="fas fa-user"></div>
+        <div id="menu-btn" class="fas fa-bars"></div>
+    </div>
+</header>

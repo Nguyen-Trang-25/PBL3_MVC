@@ -169,4 +169,4 @@ D:\Study\HK4\PBL3\FindTutor_MVC\obj\Debug\net8.0\refint\FindTutor_MVC.dll
 D:\Study\HK4\PBL3\FindTutor_MVC\obj\Debug\net8.0\FindTutor_MVC.pdb
 D:\Study\HK4\PBL3\FindTutor_MVC\obj\Debug\net8.0\FindTutor_MVC.genruntimeconfig.cache
 D:\Study\HK4\PBL3\FindTutor_MVC\obj\Debug\net8.0\ref\FindTutor_MVC.dll
-D:\Study\HK4\PBL3\FindTutor_MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Study\HK4\PBL3\FindTutor_MVC\obj\Debug\net8.0\FindTutor_MVC.sourcelink.json

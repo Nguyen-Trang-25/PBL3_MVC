@@ -1,5 +1,5 @@
 @{
-    Layout = null;
+    Layout = "_Layout";
     ViewData["Title"] = "Trang Chủ - Tìm Gia Sư";
 }
 
@@ -15,7 +15,9 @@
 </head>
 <body>
     <!-- Header -->
-    <div id="header-container"></div>
+    <div id="header-container">
+        @Html.Partial("Header") <!-- Hiển thị partial view header -->
+    </div>
 
     <!-- Account Form -->
     <div id="reg-log-container"></div>
